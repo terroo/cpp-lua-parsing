@@ -13,7 +13,6 @@ I decided to start this project because I haven't seen any similar without using
 - [x] String parser
 - [x] Ignore comments on Lua
 - [x] Ignore spaces in badly formatted files
-- [ ] Variable parser
 - [ ] Table parser
 - [ ] Metatable parser
 
