@@ -62,7 +62,7 @@ Print the entire file, but ignoring spaces and comments. This basic code would b
 ```cpp
 #include <cpp-lua-parsing/cpplua.hpp>
 ```
-> If you haven't installed it and want to use it separately, just: `#include cpplua.hpp`.
+> If you haven't installed it and want to use it separately, just: `#include "cpplua.hpp"`.
 
 - Instantiate the `luaparsing` *class* inside the `cpp` *namespace*
 ```cpp
