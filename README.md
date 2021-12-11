@@ -86,7 +86,7 @@ int main(){
 ```
 
 Compile: `g++ main.cpp -o luaparsing` . After running `./luaparsing` the formatted output of the example file will be:
-```sh
+```lua
 position = 18.3
 name = Strike Man The Biggest of The World 
 color = #554477
