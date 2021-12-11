@@ -122,8 +122,9 @@ int main( int argc , char **argv ){
   std::cout << luapp.get_key_from_value("Dragon") << '\n';
 }
 ```
+> Output: `skin` .
 
-> NOTE: get\_**key**\_from_value() `≠` get\_**value**\_from_key()
+> NOTE: `get_key_from_value()` **≠** `get_value_from_key()`
 
 ---
 
